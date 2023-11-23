@@ -72,9 +72,10 @@ const getToken = async (id: any, secret: any): Promise<any[]> =>  {
   const authFetch = await buildAuthenticatedFetch(fetch, token[1], { dpopKey: token[0] });
   // authFetch can now be used as a standard fetch function that will authenticate as your WebID.
   // This request will do a simple GET for example.
-  const response = await authFetch('https://solid.interactions.ics.unisg.ch/lukas-ubicomp/.acl');
+  const response = await authFetch('https://solid.interactions.ics.unisg.ch/lukas-ubicomp/test/.acl');
 
   console.log(response)
+  console.log(await response.text())
 
  }
 
