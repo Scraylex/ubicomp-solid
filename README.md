@@ -27,9 +27,9 @@ Subsequently where access was not granted none was to be had. The solid pod resp
 
 Screenshots
 
-![](./assets/20231124_201052_HoloLens.jpg)
-![](./assets/20231124_201111_HoloLens.jpg)
-![](./assets/20231124_201217_HoloLens.jpg)
+![](./images/20231124_201052_HoloLens.jpg)
+![](./images/20231124_201111_HoloLens.jpg)
+![](./images/20231124_201217_HoloLens.jpg)
 
 ## Pitfalls
 
