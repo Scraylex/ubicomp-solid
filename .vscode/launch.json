@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "runtimeExecutable": "ts-node",
-            "args": ["${workspaceFolder}/interactingSolidCommunityServer.ts"],
+            "args": ["${workspaceFolder}/typescript/interactingSolidCommunityServer.ts"],
             "cwd": "${workspaceFolder}",
             "protocol": "inspector",
             "internalConsoleOptions": "openOnSessionStart"
