@@ -2,6 +2,8 @@
 
 [Github](https://github.com/Scraylex/ubicomp-solid) helps view the images better!
 
+[WebID: https://solid.interactions.ics.unisg.ch/lukas-ubicomp/profile/card#me](https://solid.interactions.ics.unisg.ch/lukas-ubicomp/profile/card#me)
+
 ## Task 4
 
 In Solid, data access is managed using Access Control Lists (ACLs) to regulate permissions and define rules. The rules regulate who and which actions can be performed by a specific person on a specific resources within a Solid Pods. Solid Pods are personal online data stores thus always owned by a certain non-information entity. The solid pod acts as the entry point for the information resource of this non-information entity.
