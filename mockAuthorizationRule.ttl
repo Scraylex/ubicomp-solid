@@ -1,0 +1,8 @@
+@prefix acl: <http://www.w3.org/ns/auth/acl#>.
+
+<#auth2LukaB> a acl:Authorization;
+acl:accessTo <https://solid.interactions.ics.unisg.ch/lukas-ubicomp/test/myhobbies.txt>;
+acl:mode acl:Read;
+acl:agent <https://solid.int.ics.unisg.ch/LukaBPod/profile/card#me>,
+<mailto:luka.bekavac@student.unisg.ch>;
+acl:default <https://solid.int.ics.unisg.ch/lukas-ubicomp/test/>.
